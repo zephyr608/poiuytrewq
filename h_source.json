@@ -1,6 +1,6 @@
 {
-    "version": 5,
+    "version": 6,
     "entry_package": "sources_h_yousheng",
     "download_url": "https://github.com/zephyr608/poiuytrewq/raw/master/sources_h_yousheng.jar",
-    "update_msg": "添加性吧电台"
+    "update_msg": "去除性吧电台的重复数据"
 }
